@@ -1,0 +1,4 @@
+# ignore python virtual evironment files
+env/
+
+.ipynb_checkpoints/
